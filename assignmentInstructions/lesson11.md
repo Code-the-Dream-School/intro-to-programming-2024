@@ -7,7 +7,7 @@
 
 
 4. Once you've made the above changes to your css file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
-   - [ ] Check the status of the changes you just made (adding and editing the index.css file and the css folder) by running `git status` in your terminal
+   - [ ] Check the status of the changes you just made (editing the index.css file) by running `git status` in your terminal
    - [ ] Stage all your changes for commit by running `git add .` in your terminal
    - [ ] Run `git status` again to see how things have changed. You should get a response indicating changes staged for commit.
    - [ ] Create a commit message for reference. You can use a different message if you wish. Run `git commit -m "formatted styles added"`
